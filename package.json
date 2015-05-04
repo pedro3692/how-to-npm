@@ -1,0 +1,23 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "nodeschool how to npm workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro3692/how-to-npm.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "howtonpm"
+  ],
+  "author": "lost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro3692/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/pedro3692/how-to-npm#readme"
+}
